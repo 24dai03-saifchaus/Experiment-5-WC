@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+
+Here’s how the page looks:
+
+![Home Screenshot](reactout1.png)
+![Home Screenshot](reactout2.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
